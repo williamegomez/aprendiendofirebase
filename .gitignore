@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+public/
+
+hb-week4-js-dom-firebase.json
